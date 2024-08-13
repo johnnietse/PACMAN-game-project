@@ -1,5 +1,5 @@
 // APSC 143 Engineering Programming Project Starter Code
-// Feel free to change anything about this file, but do not remove "#include "colours.h".
+
 
 // Make sure to include all relevant libraries
 #include <stdio.h>
