@@ -13,10 +13,10 @@ This project is a simple Pac-Man-style game. It involves Pac-Man navigating thro
 
 
 ## Game Controls
-- Use W to move Pac-Man up.
-- Use A to move Pac-Man left.
-- Use S to move Pac-Man down.
-- Use D to move Pac-Man right.
+- Type W in the terminal to move Pac-Man up.
+- Type A in the terminal to move Pac-Man left.
+- Type S in the terminal to move Pac-Man down.
+- Type D in the terminal to move Pac-Man right.
 
 
 ## Map File
